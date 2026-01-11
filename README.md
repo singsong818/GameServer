@@ -1,2 +1,2 @@
 # GameServer
-how to play game
+using c++ and lua code, and how to play code.
